@@ -11,7 +11,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ClinicCalendarTest {
+class ClinicCalendarShould {
     private ClinicCalendar calendar;
     @BeforeAll
     static void testClassSetup(){
